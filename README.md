@@ -1,5 +1,5 @@
 # 🎲 Juego de Dados
-
+observación: el código no fue autogenerado con VP, ya que la licencia que entrega la universidad, ya no es válida y tuve complicaciones con el programa de Visual Paradigm. Adjunte la captura del Diagrama de clases hecho en VM online y el archivo adjuntado del diagrama fue exportado de este mismo.
 ## ✅ Identificación de clases del dominio
 
 Para el caso del juego de dados se identifican tres clases principales:
